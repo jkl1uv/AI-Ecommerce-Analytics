@@ -56,7 +56,12 @@ File:
 textbi/ecommerce_dashboard.pbix
 
 Dashboard includes:
-Sales performance overview, revenue trend analysis, customer behavior analysis, product performance analysis, customer value segmentation
+Sales performance overview【<img width="1920" height="1020" alt="06591b3df34e88ec61d0b0f11d15dc8d" src="https://github.com/user-attachments/assets/3823902f-a3f0-4ae3-97a7-721c6575a976" />
+】
+revenue trend analysis【<img width="1920" height="1020" alt="6862d5f993dc05f5a35a3b361091a96f" src="https://github.com/user-attachments/assets/e96b95e8-2f4c-4ac1-b0ed-148892676ae6" />
+】
+customer behavior analysis, product performance analysis, customer value segmentation【<img width="1920" height="1020" alt="4fd72f73ad220192eb0e54a32dfe49d9" src="https://github.com/user-attachments/assets/a3538170-953f-407f-9117-e6bac4b4f64c" />
+】
 
 Core Skills Demonstrated in the Project
 This project demonstrates the following data analysis capabilities:
