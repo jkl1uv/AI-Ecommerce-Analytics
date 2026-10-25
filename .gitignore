@@ -1,0 +1,32 @@
+# 数据文件体积较大（62MB），且为公开数据集，不纳入版本控制
+data/*.csv
+
+# DuckDB 数据库可由 python/setup_database.py 从 CSV 重建
+*.duckdb
+*.duckdb.wal
+
+# DuckDB 命令行工具
+duckdb.exe
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+
+# 客户级明细体积较大，可由脚本重新生成，不纳入版本控制
+output/rfm_segments_v2.csv
+output/customer_segments.csv
+
+# 简历文件（含手机号与邮箱，不随仓库公开）
+# 如需公开作品集，请先脱敏或改用不含联系方式的版本
+曹嘉成-数据分析-2027届.pdf
+曹嘉成-数据分析-2027届.html
