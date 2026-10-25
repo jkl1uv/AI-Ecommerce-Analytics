@@ -154,4 +154,4 @@ python python/rfm_segmentation_v2.py
 
 ## 作者
 
-曹嘉成 · 数学与应用数学 · 2027 届
+北木楠 · 数学与应用数学 · 2027 届
