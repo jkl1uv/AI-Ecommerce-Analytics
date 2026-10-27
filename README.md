@@ -27,7 +27,7 @@
 | ![经营总览](images/dashboard-01-overview.png) | ![商品表现](images/dashboard-02-product.png) | ![客户分层](images/dashboard-03-customer.png) |
 | 收入趋势、订单量、客单价 | 品类收入排名与订单分布 | RFM 分群结构与召回优先级 |
 
-> 看板源文件：`bi/电商数据看板.pbix`（需 Power BI Desktop 打开）
+> 看板源文件：`bi/电商数据看板.pbix`（需 Power BI Desktop 打开）｜免安装预览：[电商数据看板.pdf](bi/电商数据看板.pdf)
 
 ---
 
